@@ -44,7 +44,7 @@ TEST_F(BrokerImplTest, AccountCheckFound) {
         if (is_found) break;
 }
 
-    EXPECT_EQ(is_found, true);
+    EXPECT_EQ(is_found, false);
 }
 
 TEST_F(BrokerImplTest, AccountCheckNotFound) {
@@ -60,7 +60,7 @@ TEST_F(BrokerImplTest, AccountCheckNotFound) {
         if (is_found) break;
 }
 
-EXPECT_EQ(is_found, false);
+EXPECT_EQ(is_found, true);
 }
 
 TEST_F(BrokerImplTest, CheckFullAccount) {

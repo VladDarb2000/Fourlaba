@@ -22,16 +22,6 @@ algorithm
 header.hpp
 -
 
-/cygdrive/c/theforth/laba4-master-master/sources/main.cpp
-header.hpp
--
-map
--
-iostream
--
-algorithm
--
-
 /home/Ragnar/.hunter/_Base/e14bc15/0a1854b/3113548/Install/include/boost/assert.hpp
 boost/config.hpp
 -
