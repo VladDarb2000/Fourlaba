@@ -1,0 +1,2 @@
+/usr/bin/ar.exe qc libFilesystemd.a  CMakeFiles/Filesystem.dir/sources/main.cpp.o CMakeFiles/Filesystem.dir/sources/libfile.cpp.o
+/usr/bin/ranlib.exe libFilesystemd.a

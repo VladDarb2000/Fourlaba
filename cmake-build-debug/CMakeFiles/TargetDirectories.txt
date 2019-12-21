@@ -1,0 +1,6 @@
+/cygdrive/c/theforth/laba4-master-master/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/theforth/laba4-master-master/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/theforth/laba4-master-master/cmake-build-debug/CMakeFiles/test.dir
+/cygdrive/c/theforth/laba4-master-master/cmake-build-debug/CMakeFiles/tests.dir
+/cygdrive/c/theforth/laba4-master-master/cmake-build-debug/CMakeFiles/Filesystem.dir
+/cygdrive/c/theforth/laba4-master-master/cmake-build-debug/CMakeFiles/FilesystemDemo.dir
