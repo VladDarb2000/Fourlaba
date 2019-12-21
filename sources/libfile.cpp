@@ -33,7 +33,7 @@ void BrokerImpl::add_balance(const string& path, const string& dt, const string&
 }
 
 void BrokerImpl::find_paths(const path& p, const std::string& dir_path) {
-    if(boost::filesystem::is_directory(p))
+    if (boost::filesystem::is_directory(p))
     {
         for (auto& entry : directory_iterator{ p })
         {
