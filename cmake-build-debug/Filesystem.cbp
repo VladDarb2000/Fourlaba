@@ -5,7 +5,7 @@
 		<Option title="Filesystem"/>
 		<Option makefile_is_custom="1"/>
 		<Option compiler="gcc"/>
-		<Option virtualFolders="CMake Files\;CMake Files\tools\;CMake Files\tools\gate\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\home\;CMake Files\..\..\..\..\home\Ragnar\;CMake Files\..\..\..\..\home\Ragnar\.hunter\;CMake Files\..\..\..\..\home\Ragnar\.hunter\_Base\;CMake Files\..\..\..\..\home\Ragnar\.hunter\_Base\Download\;CMake Files\..\..\..\..\home\Ragnar\.hunter\_Base\Download\Hunter\;CMake Files\..\..\..\..\home\Ragnar\.hunter\_Base\Download\Hunter\0.23.214\;CMake Files\..\..\..\..\home\Ragnar\.hunter\_Base\Download\Hunter\0.23.214\e14bc15\;CMake Files\..\..\..\..\home\Ragnar\.hunter\_Base\Download\Hunter\0.23.214\e14bc15\Unpacked\;CMake Files\..\..\..\..\home\Ragnar\.hunter\_Base\Download\Hunter\0.23.214\e14bc15\Unpacked\cmake\;CMake Files\..\..\..\..\home\Ragnar\.hunter\_Base\Download\Hunter\0.23.214\e14bc15\Unpacked\cmake\modules\;CMake Files\..\..\..\..\home\Ragnar\.hunter\_Base\Download\Hunter\0.23.214\e14bc15\Unpacked\cmake\configs\;CMake Files\..\..\..\..\home\Ragnar\.hunter\_Base\Download\Hunter\0.23.214\e14bc15\Unpacked\cmake\projects\;CMake Files\..\..\..\..\home\Ragnar\.hunter\_Base\Download\Hunter\0.23.214\e14bc15\Unpacked\cmake\projects\GTest\;CMake Files\..\..\..\..\home\Ragnar\.hunter\_Base\Download\Hunter\0.23.214\e14bc15\Unpacked\cmake\projects\Boost\;CMake Files\..\..\..\..\home\Ragnar\.hunter\_Base\Download\Hunter\0.23.214\e14bc15\Unpacked\cmake\projects\Boost\schemes\;CMake Files\..\..\..\..\home\Ragnar\.hunter\_Base\Download\Hunter\0.23.214\e14bc15\Unpacked\cmake\projects\Boost\filesystem\;CMake Files\..\..\..\..\home\Ragnar\.hunter\_Base\Download\Hunter\0.23.214\e14bc15\Unpacked\cmake\projects\Boost\regex\;CMake Files\..\..\..\..\home\Ragnar\.hunter\_Base\Download\Hunter\0.23.214\e14bc15\Unpacked\cmake\find\;CMake Files\..\..\..\..\home\Ragnar\.hunter\_Base\Download\Hunter\0.23.214\e14bc15\Unpacked\scripts\;CMake Files\..\..\..\..\home\Ragnar\.hunter\_Base\e14bc15\;CMake Files\..\..\..\..\home\Ragnar\.hunter\_Base\e14bc15\0a1854b\;CMake Files\..\..\..\..\home\Ragnar\.hunter\_Base\e14bc15\0a1854b\3113548\;CMake Files\..\..\..\..\home\Ragnar\.hunter\_Base\e14bc15\0a1854b\3113548\Build\;CMake Files\..\..\..\..\home\Ragnar\.hunter\_Base\e14bc15\0a1854b\3113548\Build\Boost\;CMake Files\..\..\..\..\home\Ragnar\.hunter\_Base\e14bc15\0a1854b\3113548\Build\Boost\__filesystem\;CMake Files\..\..\..\..\home\Ragnar\.hunter\_Base\e14bc15\0a1854b\3113548\Build\Boost\__regex\;CMake Files\..\..\..\..\home\Ragnar\.hunter\_Base\e14bc15\0a1854b\3113548\Install\;CMake Files\..\..\..\..\home\Ragnar\.hunter\_Base\e14bc15\0a1854b\3113548\Install\lib\;CMake Files\..\..\..\..\home\Ragnar\.hunter\_Base\e14bc15\0a1854b\3113548\Install\lib\cmake\;CMake Files\..\..\..\..\home\Ragnar\.hunter\_Base\e14bc15\0a1854b\3113548\Install\lib\cmake\GTest\;CMake Files\..\..\..\..\home\Ragnar\.hunter\_Base\e14bc15\0a1854b\3113548\Install\lib\cmake\Boost\;CMake Files\..\..\..\..\home\Ragnar\.hunter\_Base\Cache\;CMake Files\..\..\..\..\home\Ragnar\.hunter\_Base\Cache\meta\;CMake Files\..\..\..\..\home\Ragnar\.hunter\_Base\Cache\meta\0a1854b\;CMake Files\..\..\..\..\home\Ragnar\.hunter\_Base\Cache\meta\0a1854b\Boost\;CMake Files\..\..\..\..\home\Ragnar\.hunter\_Base\Cache\meta\0a1854b\Boost\1.70.0-p0\;CMake Files\..\..\..\..\home\Ragnar\.hunter\_Base\Cache\meta\0a1854b\Boost\1.70.0-p0\e6bb97b\;CMake Files\..\..\..\..\home\Ragnar\.hunter\_Base\Cache\meta\0a1854b\Boost\1.70.0-p0\e6bb97b\da39a3e\;CMake Files\..\..\..\..\home\Ragnar\.hunter\_Base\Cache\meta\0a1854b\Boost\1.70.0-p0\e6bb97b\da39a3e\4830b34\;CMake Files\..\..\..\..\home\Ragnar\.hunter\_Base\Cache\meta\0a1854b\Boost\1.70.0-p0\e6bb97b\da39a3e\4830b34\f54ee8e\;CMake Files\..\..\..\..\home\Ragnar\.hunter\_Base\Cache\meta\0a1854b\Boost\__filesystem\;CMake Files\..\..\..\..\home\Ragnar\.hunter\_Base\Cache\meta\0a1854b\Boost\__filesystem\1.70.0-p0\;CMake Files\..\..\..\..\home\Ragnar\.hunter\_Base\Cache\meta\0a1854b\Boost\__filesystem\1.70.0-p0\e6bb97b\;CMake Files\..\..\..\..\home\Ragnar\.hunter\_Base\Cache\meta\0a1854b\Boost\__filesystem\1.70.0-p0\e6bb97b\da39a3e\;CMake Files\..\..\..\..\home\Ragnar\.hunter\_Base\Cache\meta\0a1854b\Boost\__filesystem\1.70.0-p0\e6bb97b\da39a3e\4830b34\;CMake Files\..\..\..\..\home\Ragnar\.hunter\_Base\Cache\meta\0a1854b\Boost\__filesystem\1.70.0-p0\e6bb97b\da39a3e\4830b34\f54ee8e\;CMake Files\..\..\..\..\home\Ragnar\.hunter\_Base\Cache\meta\0a1854b\Boost\__regex\;CMake Files\..\..\..\..\home\Ragnar\.hunter\_Base\Cache\meta\0a1854b\Boost\__regex\1.70.0-p0\;CMake Files\..\..\..\..\home\Ragnar\.hunter\_Base\Cache\meta\0a1854b\Boost\__regex\1.70.0-p0\e6bb97b\;CMake Files\..\..\..\..\home\Ragnar\.hunter\_Base\Cache\meta\0a1854b\Boost\__regex\1.70.0-p0\e6bb97b\da39a3e\;CMake Files\..\..\..\..\home\Ragnar\.hunter\_Base\Cache\meta\0a1854b\Boost\__regex\1.70.0-p0\e6bb97b\da39a3e\4830b34\;CMake Files\..\..\..\..\home\Ragnar\.hunter\_Base\Cache\meta\0a1854b\Boost\__regex\1.70.0-p0\e6bb97b\da39a3e\4830b34\f54ee8e\;CMake Files\cmake-build-debug\;CMake Files\cmake-build-debug\_3rdParty\;CMake Files\cmake-build-debug\_3rdParty\Hunter\;CMake Files\cmake-build-debug\_3rdParty\Hunter\toolchain\;CMake Files\cmake-build-debug\_3rdParty\Hunter\config-id\;"/>
+		<Option virtualFolders="CMake Files\;CMake Files\tools\;CMake Files\tools\gate\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\home\;CMake Files\..\..\..\..\home\Ragnar\;CMake Files\..\..\..\..\home\Ragnar\.hunter\;CMake Files\..\..\..\..\home\Ragnar\.hunter\_Base\;CMake Files\..\..\..\..\home\Ragnar\.hunter\_Base\Download\;CMake Files\..\..\..\..\home\Ragnar\.hunter\_Base\Download\Hunter\;CMake Files\..\..\..\..\home\Ragnar\.hunter\_Base\Download\Hunter\0.23.214\;CMake Files\..\..\..\..\home\Ragnar\.hunter\_Base\Download\Hunter\0.23.214\e14bc15\;CMake Files\..\..\..\..\home\Ragnar\.hunter\_Base\Download\Hunter\0.23.214\e14bc15\Unpacked\;CMake Files\..\..\..\..\home\Ragnar\.hunter\_Base\Download\Hunter\0.23.214\e14bc15\Unpacked\cmake\;CMake Files\..\..\..\..\home\Ragnar\.hunter\_Base\Download\Hunter\0.23.214\e14bc15\Unpacked\cmake\modules\;CMake Files\..\..\..\..\home\Ragnar\.hunter\_Base\Download\Hunter\0.23.214\e14bc15\Unpacked\cmake\configs\;CMake Files\..\..\..\..\home\Ragnar\.hunter\_Base\Download\Hunter\0.23.214\e14bc15\Unpacked\cmake\projects\;CMake Files\..\..\..\..\home\Ragnar\.hunter\_Base\Download\Hunter\0.23.214\e14bc15\Unpacked\cmake\projects\GTest\;CMake Files\..\..\..\..\home\Ragnar\.hunter\_Base\Download\Hunter\0.23.214\e14bc15\Unpacked\cmake\projects\Boost\;CMake Files\..\..\..\..\home\Ragnar\.hunter\_Base\Download\Hunter\0.23.214\e14bc15\Unpacked\cmake\projects\Boost\filesystem\;CMake Files\..\..\..\..\home\Ragnar\.hunter\_Base\Download\Hunter\0.23.214\e14bc15\Unpacked\cmake\projects\Boost\regex\;CMake Files\..\..\..\..\home\Ragnar\.hunter\_Base\Download\Hunter\0.23.214\e14bc15\Unpacked\cmake\find\;CMake Files\..\..\..\..\home\Ragnar\.hunter\_Base\Download\Hunter\0.23.214\e14bc15\Unpacked\scripts\;CMake Files\..\..\..\..\home\Ragnar\.hunter\_Base\e14bc15\;CMake Files\..\..\..\..\home\Ragnar\.hunter\_Base\e14bc15\0a1854b\;CMake Files\..\..\..\..\home\Ragnar\.hunter\_Base\e14bc15\0a1854b\3113548\;CMake Files\..\..\..\..\home\Ragnar\.hunter\_Base\e14bc15\0a1854b\3113548\Install\;CMake Files\..\..\..\..\home\Ragnar\.hunter\_Base\e14bc15\0a1854b\3113548\Install\lib\;CMake Files\..\..\..\..\home\Ragnar\.hunter\_Base\e14bc15\0a1854b\3113548\Install\lib\cmake\;CMake Files\..\..\..\..\home\Ragnar\.hunter\_Base\e14bc15\0a1854b\3113548\Install\lib\cmake\GTest\;CMake Files\..\..\..\..\home\Ragnar\.hunter\_Base\e14bc15\0a1854b\3113548\Install\lib\cmake\Boost\;CMake Files\cmake-build-debug\;CMake Files\cmake-build-debug\_3rdParty\;CMake Files\cmake-build-debug\_3rdParty\Hunter\;CMake Files\cmake-build-debug\_3rdParty\Hunter\toolchain\;CMake Files\cmake-build-debug\_3rdParty\Hunter\config-id\;"/>
 		<Build>
 			<Target title="all">
 				<Option working_dir="/cygdrive/c/theforth/laba4-master-master/cmake-build-debug"/>
@@ -32,16 +32,6 @@
 				<Option type="4"/>
 				<MakeCommands>
 					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/theforth/laba4-master-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/theforth/laba4-master-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/theforth/laba4-master-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/theforth/laba4-master-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="test">
-				<Option working_dir="/cygdrive/c/theforth/laba4-master-master/cmake-build-debug"/>
-				<Option type="4"/>
-				<MakeCommands>
-					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/theforth/laba4-master-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 test"/>
 					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/theforth/laba4-master-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/theforth/laba4-master-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/theforth/laba4-master-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
@@ -448,12 +438,6 @@
 		<Unit filename="/cygdrive/c/theforth/laba4-master-master/../../../../home/Ragnar/.hunter/_Base/Download/Hunter/0.23.214/e14bc15/Unpacked/cmake/projects/Boost/hunter.cmake">
 			<Option virtualFolder="CMake Files\..\..\..\..\home\Ragnar\.hunter\_Base\Download\Hunter\0.23.214\e14bc15\Unpacked\cmake\projects\Boost\"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/theforth/laba4-master-master/../../../../home/Ragnar/.hunter/_Base/Download/Hunter/0.23.214/e14bc15/Unpacked/cmake/projects/Boost/schemes/url_sha1_boost.cmake.in">
-			<Option virtualFolder="CMake Files\..\..\..\..\home\Ragnar\.hunter\_Base\Download\Hunter\0.23.214\e14bc15\Unpacked\cmake\projects\Boost\schemes\"/>
-		</Unit>
-		<Unit filename="/cygdrive/c/theforth/laba4-master-master/../../../../home/Ragnar/.hunter/_Base/Download/Hunter/0.23.214/e14bc15/Unpacked/cmake/projects/Boost/schemes/url_sha1_boost_library.cmake.in">
-			<Option virtualFolder="CMake Files\..\..\..\..\home\Ragnar\.hunter\_Base\Download\Hunter\0.23.214\e14bc15\Unpacked\cmake\projects\Boost\schemes\"/>
-		</Unit>
 		<Unit filename="/cygdrive/c/theforth/laba4-master-master/../../../../home/Ragnar/.hunter/_Base/Download/Hunter/0.23.214/e14bc15/Unpacked/cmake/projects/Boost/filesystem/hunter.cmake">
 			<Option virtualFolder="CMake Files\..\..\..\..\home\Ragnar\.hunter\_Base\Download\Hunter\0.23.214\e14bc15\Unpacked\cmake\projects\Boost\filesystem\"/>
 		</Unit>
@@ -468,33 +452,6 @@
 		</Unit>
 		<Unit filename="/cygdrive/c/theforth/laba4-master-master/../../../../home/Ragnar/.hunter/_Base/e14bc15/0a1854b/3113548/config.cmake">
 			<Option virtualFolder="CMake Files\..\..\..\..\home\Ragnar\.hunter\_Base\e14bc15\0a1854b\3113548\"/>
-		</Unit>
-		<Unit filename="/cygdrive/c/theforth/laba4-master-master/../../../../home/Ragnar/.hunter/_Base/e14bc15/0a1854b/3113548/Build/Boost/args.cmake.NOLF">
-			<Option virtualFolder="CMake Files\..\..\..\..\home\Ragnar\.hunter\_Base\e14bc15\0a1854b\3113548\Build\Boost\"/>
-		</Unit>
-		<Unit filename="/cygdrive/c/theforth/laba4-master-master/../../../../home/Ragnar/.hunter/_Base/e14bc15/0a1854b/3113548/Build/Boost/internal_deps.id.NOLF">
-			<Option virtualFolder="CMake Files\..\..\..\..\home\Ragnar\.hunter\_Base\e14bc15\0a1854b\3113548\Build\Boost\"/>
-		</Unit>
-		<Unit filename="/cygdrive/c/theforth/laba4-master-master/../../../../home/Ragnar/.hunter/_Base/e14bc15/0a1854b/3113548/Build/Boost/types.info.NOLF">
-			<Option virtualFolder="CMake Files\..\..\..\..\home\Ragnar\.hunter\_Base\e14bc15\0a1854b\3113548\Build\Boost\"/>
-		</Unit>
-		<Unit filename="/cygdrive/c/theforth/laba4-master-master/../../../../home/Ragnar/.hunter/_Base/e14bc15/0a1854b/3113548/Build/Boost/__filesystem/args.cmake.NOLF">
-			<Option virtualFolder="CMake Files\..\..\..\..\home\Ragnar\.hunter\_Base\e14bc15\0a1854b\3113548\Build\Boost\__filesystem\"/>
-		</Unit>
-		<Unit filename="/cygdrive/c/theforth/laba4-master-master/../../../../home/Ragnar/.hunter/_Base/e14bc15/0a1854b/3113548/Build/Boost/__filesystem/internal_deps.id.NOLF">
-			<Option virtualFolder="CMake Files\..\..\..\..\home\Ragnar\.hunter\_Base\e14bc15\0a1854b\3113548\Build\Boost\__filesystem\"/>
-		</Unit>
-		<Unit filename="/cygdrive/c/theforth/laba4-master-master/../../../../home/Ragnar/.hunter/_Base/e14bc15/0a1854b/3113548/Build/Boost/__filesystem/types.info.NOLF">
-			<Option virtualFolder="CMake Files\..\..\..\..\home\Ragnar\.hunter\_Base\e14bc15\0a1854b\3113548\Build\Boost\__filesystem\"/>
-		</Unit>
-		<Unit filename="/cygdrive/c/theforth/laba4-master-master/../../../../home/Ragnar/.hunter/_Base/e14bc15/0a1854b/3113548/Build/Boost/__regex/args.cmake.NOLF">
-			<Option virtualFolder="CMake Files\..\..\..\..\home\Ragnar\.hunter\_Base\e14bc15\0a1854b\3113548\Build\Boost\__regex\"/>
-		</Unit>
-		<Unit filename="/cygdrive/c/theforth/laba4-master-master/../../../../home/Ragnar/.hunter/_Base/e14bc15/0a1854b/3113548/Build/Boost/__regex/internal_deps.id.NOLF">
-			<Option virtualFolder="CMake Files\..\..\..\..\home\Ragnar\.hunter\_Base\e14bc15\0a1854b\3113548\Build\Boost\__regex\"/>
-		</Unit>
-		<Unit filename="/cygdrive/c/theforth/laba4-master-master/../../../../home/Ragnar/.hunter/_Base/e14bc15/0a1854b/3113548/Build/Boost/__regex/types.info.NOLF">
-			<Option virtualFolder="CMake Files\..\..\..\..\home\Ragnar\.hunter\_Base\e14bc15\0a1854b\3113548\Build\Boost\__regex\"/>
 		</Unit>
 		<Unit filename="/cygdrive/c/theforth/laba4-master-master/../../../../home/Ragnar/.hunter/_Base/e14bc15/0a1854b/3113548/Install/lib/cmake/GTest/GTestConfig.cmake">
 			<Option virtualFolder="CMake Files\..\..\..\..\home\Ragnar\.hunter\_Base\e14bc15\0a1854b\3113548\Install\lib\cmake\GTest\"/>
@@ -516,24 +473,6 @@
 		</Unit>
 		<Unit filename="/cygdrive/c/theforth/laba4-master-master/../../../../home/Ragnar/.hunter/_Base/e14bc15/0a1854b/3113548/Install/lib/cmake/Boost/BoostConfigVersion.cmake">
 			<Option virtualFolder="CMake Files\..\..\..\..\home\Ragnar\.hunter\_Base\e14bc15\0a1854b\3113548\Install\lib\cmake\Boost\"/>
-		</Unit>
-		<Unit filename="/cygdrive/c/theforth/laba4-master-master/../../../../home/Ragnar/.hunter/_Base/Cache/meta/0a1854b/Boost/1.70.0-p0/e6bb97b/da39a3e/4830b34/f54ee8e/basic-deps.info.NOLF">
-			<Option virtualFolder="CMake Files\..\..\..\..\home\Ragnar\.hunter\_Base\Cache\meta\0a1854b\Boost\1.70.0-p0\e6bb97b\da39a3e\4830b34\f54ee8e\"/>
-		</Unit>
-		<Unit filename="/cygdrive/c/theforth/laba4-master-master/../../../../home/Ragnar/.hunter/_Base/Cache/meta/0a1854b/Boost/1.70.0-p0/e6bb97b/da39a3e/4830b34/f54ee8e/deps.info-TEMP.NOLF">
-			<Option virtualFolder="CMake Files\..\..\..\..\home\Ragnar\.hunter\_Base\Cache\meta\0a1854b\Boost\1.70.0-p0\e6bb97b\da39a3e\4830b34\f54ee8e\"/>
-		</Unit>
-		<Unit filename="/cygdrive/c/theforth/laba4-master-master/../../../../home/Ragnar/.hunter/_Base/Cache/meta/0a1854b/Boost/__filesystem/1.70.0-p0/e6bb97b/da39a3e/4830b34/f54ee8e/basic-deps.info.NOLF">
-			<Option virtualFolder="CMake Files\..\..\..\..\home\Ragnar\.hunter\_Base\Cache\meta\0a1854b\Boost\__filesystem\1.70.0-p0\e6bb97b\da39a3e\4830b34\f54ee8e\"/>
-		</Unit>
-		<Unit filename="/cygdrive/c/theforth/laba4-master-master/../../../../home/Ragnar/.hunter/_Base/Cache/meta/0a1854b/Boost/__filesystem/1.70.0-p0/e6bb97b/da39a3e/4830b34/f54ee8e/deps.info-TEMP.NOLF">
-			<Option virtualFolder="CMake Files\..\..\..\..\home\Ragnar\.hunter\_Base\Cache\meta\0a1854b\Boost\__filesystem\1.70.0-p0\e6bb97b\da39a3e\4830b34\f54ee8e\"/>
-		</Unit>
-		<Unit filename="/cygdrive/c/theforth/laba4-master-master/../../../../home/Ragnar/.hunter/_Base/Cache/meta/0a1854b/Boost/__regex/1.70.0-p0/e6bb97b/da39a3e/4830b34/f54ee8e/basic-deps.info.NOLF">
-			<Option virtualFolder="CMake Files\..\..\..\..\home\Ragnar\.hunter\_Base\Cache\meta\0a1854b\Boost\__regex\1.70.0-p0\e6bb97b\da39a3e\4830b34\f54ee8e\"/>
-		</Unit>
-		<Unit filename="/cygdrive/c/theforth/laba4-master-master/../../../../home/Ragnar/.hunter/_Base/Cache/meta/0a1854b/Boost/__regex/1.70.0-p0/e6bb97b/da39a3e/4830b34/f54ee8e/deps.info-TEMP.NOLF">
-			<Option virtualFolder="CMake Files\..\..\..\..\home\Ragnar\.hunter\_Base\Cache\meta\0a1854b\Boost\__regex\1.70.0-p0\e6bb97b\da39a3e\4830b34\f54ee8e\"/>
 		</Unit>
 		<Unit filename="/cygdrive/c/theforth/laba4-master-master/cmake-build-debug/_3rdParty/Hunter/toolchain/toolchain.info.NOLF">
 			<Option virtualFolder="CMake Files\cmake-build-debug\_3rdParty\Hunter\toolchain\"/>
