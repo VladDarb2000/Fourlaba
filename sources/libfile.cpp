@@ -19,12 +19,12 @@ AccountsMap BrokerImpl::resolve(const path& path) {
 
 void BrokerImpl::add_balance(const string& path, const string& dt, const string& id) {
     if (m_map.find(path) == m_map.end()){
-        m_map[path][id] = { Account { dt } };
+        m_map[path][id] =  Account { dt };
         return;
     }
 
     if (m_map[path].find(id) == m_map[path].end()) {
-        m_map[path][id] = { Account { dt } };
+        m_map[path][id] = Account { dt };
         return;
     }
     m_map[path][id].count++;
@@ -40,7 +40,7 @@ void BrokerImpl::find_paths(const path& p, const std::string& dir_path) {
             if (boost::filesystem::is_directory(entry))
             {
                 find_paths(entry, (dir_path.length() > 0 ? dir_path + "/" : dir_path)
-                                  + entry.path().filename().string());
+                + entry.path().filename().string());
                 continue;
             }
             if (is_right_file(entry.path()))

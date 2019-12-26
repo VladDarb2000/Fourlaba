@@ -13,10 +13,7 @@ using std::map;
 using std::string;
 using std::make_pair;
 
-int main(
-        int argc,
-        char *argv[]
-) {
+int main( int argc, char *argv[] ) {
     path path_to_ftp;
     if (argc == 1) path_to_ftp = (path(argv[0])).parent_path();
     else path_to_ftp = path(argv[1]);
